@@ -5,3 +5,4 @@ dist/
 *.log
 coverage/
 .cache/
+*.tmp
