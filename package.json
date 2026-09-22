@@ -1,6 +1,6 @@
 {
   "name": "wonda",
-  "version": "0.1.27",
+  "version": "0.1.28",
   "description": "Wonda CLI \u2014 AI-powered content creation from your terminal",
   "main": "src/index.ts",
   "scripts": {
